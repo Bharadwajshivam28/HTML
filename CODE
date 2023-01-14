@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shivam's Portfolio ⭐</title>
+</head>
+<body>
+    <img src="images\download.png" alt="image" height="190" width="190">  
+    <h5><u>Shivam kumar 🙏</u></h5>
+    <p><h6>Hi myself Shivam kumar and i am currently an undergraduate Btech student at KIET GROUP OF INSTITUTIONS . I am from Bihar, Patna🏡</h6>
+        </p>
+        <a href="https://www.kiet.edu/"><i><h6>My college Offical Website 🔗</h6></i></a>
+
+        <ol>
+            <font color = "blue">
+            <h5>MY SKILLS😎</h5>
+            </font>
+            <font color = "green">
+            <li><i>C</i></li>
+            <li><i>JAVA</i></li>
+            <li><i>PYTHON</i></li>
+            <li><i>WEB DEVLOPMENT</i></li>
+            </font>
+            <hr>
+        </ol>
+        <ul>
+            <font color = "yellow">
+                <h5>MY HOBBIES👌</h5>
+            </font>
+            <font color = "purple">
+                <li><i>Playing Football ⚽</i></li>
+                <li><i>Love to do Photoshoot 📸</i></li>
+                <li><i>Listen Music 🎸</i></li>
+             </font>
+             <hr>
+        </ul>
+        <table = border="5"
+            <tr>
+                <td>Year</td>
+                <td>Standard</td>
+                <td>Result</td>
+            
+            </tr>
+            <tr>
+                <td>2010-2020</td>
+                <td>Class 10</td>
+                <td>71%</td>
+            </tr>
+            <tr>
+                <td>2020-2022</td>
+                <td>Class 12</td>
+                <td>73%</td>
+            </tr>
+            <tr>
+                <td>2022</td>
+                <td>Jee</td>
+                <td>90%</td>
+            </tr>
+        </table>
+<hr>
+
+<a href="here.html">CONTACT ME 👋</a>
+
+
+        
+</body>
+</html>
