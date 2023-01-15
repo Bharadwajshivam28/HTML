@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam registration form</title>
+</head>
+<body>
+    <h5><i>Fill the form below ⬇️<i></h5>                    
+    <form>
+       <label for="">Your name :</label>
+       <input type="text" name="" id="">
+       <hr>
+    </form>
+    <form>
+    <label for="">Select Your D.O.B :</label>
+    <input type="date" name="" id="">
+    <hr>
+    </form>
+    <form>
+    <h5>Select in which year do you study ? </h5>
+    <label for="">I year</label>
+    <input type="checkbox" name="" id="">
+    <label for="">II year</label>
+    <input type="checkbox" name="" id="">
+    <label for="">III year</label>
+    <input type="checkbox" name="" id="">
+    <label for="">Iv year</label>
+    <input type="checkbox" name="" id="">
+    <hr>
+    </form>
+    <form>
+    <label for="">Fill your email 📩 :</label>
+    <input type="text" name="" id="">
+    <hr>
+    </form>
+    <form>
+    <label for=""">Select your passport size photo 📸 :</label>
+    <input type="file" name="" id="">
+    <hr>
+    </form>
+    <form>
+        <label for="">Create Your Password :</label>
+        <input type="password" name="" id="">
+        <br>
+        <label for="">Confirm your password :</label>
+        <input type="password" name="" id="">
+        <hr>
+    </form>
+    <form>
+        <label for="">Mobile number 📞 +91 :</label>
+        <input type="number" name="" id="">
+        <hr>
+    </form>
+    <form>
+        <label for="">Fill up your address 🏡 :</label>
+        <input type="text" name="" id="">
+        <hr>
+    </form>
+    <h5>Select color for your class 12 percentage : </h5>
+    <ol>
+    <li><h6><i>Below 50 % choose black color ⚫</i></h6></li>
+    <li><h6><i>From 50% to 75% choose Orange color 🟠</i></h6></li>
+    <li><h6><i>From 76% to 90% choose Yellow color 🟡</i></h6></li>
+    <li><h6><i>Above 90% choose Green color 🟢</i></h6></li>
+    <label for=""></label>
+    <input type="color" name="" id="">
+    </ol>
+    <hr>
+    </form>
+    <h5><i>Please check above filled information carefully as it will not be changed again ⚠️</i></h5>
+    <form>
+    <label for=""> Final Submit : </label>
+    <input type="submit" name="" id="">
+    <hr>
+    </form>
+    <h4><i>Created by Shivam kumar ⭐</i></h4>
+</body>
+</html>
